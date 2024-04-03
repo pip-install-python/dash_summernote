@@ -1,0 +1,11 @@
+include dash_summernote/dash_summernote.min.js
+include dash_summernote/dash_summernote.min.js.map
+include dash_summernote/async-*.js
+include dash_summernote/async-*.js.map
+include dash_summernote/*-shared.js
+include dash_summernote/*-shared.js.map
+include dash_summernote/metadata.json
+include dash_summernote/package-info.json
+include README.md
+include LICENSE
+include package.json
